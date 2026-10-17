@@ -1,0 +1,4 @@
+.DS_Store
+*.log
+# created by scripts/01-create-foundation.sh (your unique registry name etc.)
+.lab-env
